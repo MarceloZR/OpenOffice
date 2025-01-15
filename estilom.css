@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.logo1{
+
+    position: absolute;
+    height: 150px;
+    left: 600px;
+    top: 100px;
+    animation-name: ;
+}
+
+
+
+.logo2{
+    width: 300px;
+    text-align: center;
+  }
+
+  .inputo{
+    position: absolute;
+    right: 550px;
+    left: 600px;
+    top: 280px;
+}
+
+.inputr{
+
+    position: absolute;
+    right: 600px;
+    left: 600px;
+    top: 305px;
+    bottom: 800px;
+
+}
+
+.inpute{
+    position: absolute;
+    right: 500px;
+    left: 648px;
+    top: 340px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+
+details{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+table{
+    background-color: rgb(255, 255, 255);
+    padding: auto;
+    border-style: double;
+}
+
+.det1{
+    position: absolute;
+    top: 700px;
+    bottom: 600px;
+}
+
+.a1{
+position: absolute;
+top: 700px;
+bottom: 600px;
+left:1250px
+}
+
+section{
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+
+}
